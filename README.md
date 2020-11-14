@@ -4,7 +4,7 @@
 
 Run these command in console
 + npm i -g express-typescript-jest-supertest
-+ express-typescript-jest-supertest nameOfyourAwesomeServer
++ npx express-typescript-jest-supertest nameOfyourAwesomeServer
 *use tab in bash not to enter full package name*
 after you run this commands you will have folder with all required files to write express server
 
