@@ -1,0 +1,23 @@
+{
+  "name": "express-typescript-jest-supertest",
+  "version": "0.0.7",
+  "description": "Tool to generate express boilerplate application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-express-app": "./bin/start.js"
+  },
+  "keywords": [
+    "typescript",
+    "express",
+    "supertest",
+    "jest",
+    "swagger",
+    "jsdoc"
+  ],
+  "author": "Dmytro Portianka",
+  "license": "ISC",
+  "dependencies": {}
+}

@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "ES2019",
+        "noImplicitAny": true,
+        "module": "CommonJS",
+        "baseUrl": "./src",
+        "rootDir": "./src",
+        "outDir": "./build",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "paths": {
+            "src/*": [
+                "./src/*"
+            ]
+        }
+    },
+    "include": ["./src"],
+    "exclude": ["node_modules"]
+}

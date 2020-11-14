@@ -1,0 +1,13 @@
+version: "3.3"
+
+services:
+  generator:
+    build: .
+    ports:
+      - 80:8080
+  doc:
+    build:
+      context: .
+      dockerfile: Dockerfile.swagger
+    ports:
+      - 8080:8080
