@@ -1,6 +1,6 @@
 {
   "name": "express-typescript-jest-supertest",
-  "version": "0.0.73",
+  "version": "0.0.74",
   "description": "Tool to generate express boilerplate application",
   "main": "index.js",
   "scripts": {
