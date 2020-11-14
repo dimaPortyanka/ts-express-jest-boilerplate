@@ -19,5 +19,9 @@
   ],
   "author": "Dmytro Portianka",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/dimaPortyanka/ts-express-jest-boilerplate"
+  }
 }
