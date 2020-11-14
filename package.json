@@ -1,6 +1,6 @@
 {
   "name": "express-typescript-jest-supertest",
-  "version": "0.0.74",
+  "version": "0.0.75",
   "description": "Tool to generate express boilerplate application",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,11 @@
   ],
   "author": "Dmytro Portianka",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "fs-extra": "9.0.1"
+  },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/dimaPortyanka/ts-express-jest-boilerplate"
+    "type": "git",
+    "url": "https://github.com/dimaPortyanka/ts-express-jest-boilerplate"
   }
 }

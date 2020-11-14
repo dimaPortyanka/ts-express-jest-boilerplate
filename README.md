@@ -1,6 +1,3 @@
-# ATENTION
-Dosn't work on windows.
-
 # typescript + express + jest + supertest + swagger boilerplate
 
 ## Getting started
